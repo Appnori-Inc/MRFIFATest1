@@ -1,0 +1,20 @@
+ID,Name,Part,Path_1 (Mesh),Path_2 (Material)
+000,머리01,1_back hair,Mesh_M_HAIR_01,Mat_M_HAIR_01
+001,머리서브01,1_back hair,Mesh_M_HAIR_01_SUB,Mat_M_HAIR_01
+002,머리02,0_front hair,Mesh_M_HAIR_02,Mat_M_HAIR_02
+003,머리03,0_front hair,Mesh_M_HAIR_03,Mat_M_HAIR_03
+004,머리04,0_front hair,Mesh_M_HAIR_04,Mat_M_HAIR_04
+005,머리05,0_front hair,Mesh_M_HAIR_05,Mat_M_HAIR_05
+006,머리06,0_front hair,Mesh_M_HAIR_06,Mat_M_HAIR_06
+007,머리07,1_back hair,Mesh_M_HAIR_07,Mat_M_HAIR_07
+008,머리08,1_back hair,Mesh_M_HAIR_08,Mat_M_HAIR_08
+009,머리09,1_back hair,Mesh_M_HAIR_09,Mat_M_HAIR_09
+010,앞머리01,0_front hair,Mesh_F_HAIR_FRONT_01,Mat_F_HAIR_Front_01
+011,앞머리02,0_front hair,Mesh_F_HAIR_FRONT_02,Mat_F_HAIR_Front_01
+012,뒷머리01,1_back hair,Mesh_F_SHORT_HAIR_01,Mat_F_HAIR_Back_Normal_01
+013,뒷머리02,1_back hair,Mesh_F_PONY_TAIL_01,Mat_F_HAIR_Back_PONY_01
+014,뒷머리03,1_back hair,Mesh_F_TWIN_TAIL_01,Mat_F_HAIR_Back_TWIN_01
+015,머리04,0_front hair,Mesh_F_HAIR_04,Mat_F_HAIR_04
+016,머리05,0_front hair,Mesh_F_HAIR_05,Mat_F_HAIR_05
+017,머리06,0_front hair,Mesh_F_HAIR_06,Mat_F_HAIR_06
+018,머리서브01,1_back hair,Mesh_F_HAIR_01_SUB,Mat_M_HAIR_01

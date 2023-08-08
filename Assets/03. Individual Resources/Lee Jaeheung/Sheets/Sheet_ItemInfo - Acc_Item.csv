@@ -1,0 +1,37 @@
+ID,Name,Part,Path_1 (Mesh),Path_2 (Material)
+000,없음,0_all,Null,Null
+001,곰인형머리,0_all,Mesh_HELMET_Bear,Mat_HELMET_Bear
+002,토끼인형머리,0_all,Mesh_HELMET_Rabbit,Mat_HELMET_Rabbit
+003,히어로헬멧,0_all,Mesh_HELMET_Hero_01,Mat_HELMET_Hero_01
+004,로봇슈트헬멧,1_head,Mesh_HELMET_Robot_01,Mat_HELMET_Robot_01
+005,호박머리,0_all,Mesh_HELMET_Pumpkin,Mat_HELMET_Pumpkin
+006,해골머리,0_all,Mesh_HELMET_Skull,Mat_HELMET_Skull
+007,패션안경,4_eye,Mesh_GLASS_01,Mat_GLASS_01
+008,코주부안경,3_face,Mesh_GLASS_02,Mat_GLASS_01
+009,피에로안경,3_face,Mesh_GLASS_03,Mat_GLASS_01
+010,패션마스크,5_mouth,Mesh_MASK_01,Mat_MASK_01
+011,야구모자01,2_hair,Mesh_CAP01,Mat_HELMET_CAP01
+012,야구타자헬멧,2_hair,Mesh_A_HELMET,Mat_HELMET_CAP01
+013,야구포수헬멧,1_head,Mesh_C_HELMET,Mat_HELMET_GLOVES
+014,가스마스크,3_face,Mesh_GAS_MASK_01,Mat_GAS_MASK_01
+015,로마대장헬멧,1_head,Mesh_HELMET_07_2,Mat_HELMET_07
+016,도형마스크01,0_all,Mesh_HELMET_SQ,Mat_HELMET_SQ01
+017,도형마스크02,0_all,Mesh_HELMET_SQ,Mat_HELMET_SQ02
+018,도형마스크03,0_all,Mesh_HELMET_SQ,Mat_HELMET_SQ03
+019,바이크헬멧2(열림),1_head,Mesh_BIKE_FF_HELMET_02,Mat_BIKE_FF_HELMET
+020,바이크헬멧2,1_head,Mesh_BIKE_FF_HELMET_01,Mat_BIKE_FF_HELMET
+021,바이크헬멧1(선바이저),1_head,Mesh_BIKE_HELMET_02,Mat_BIKE_HELMET_01
+022,바이크헬멧1,1_head,Mesh_BIKE_HELMET_01,Mat_BIKE_HELMET_01
+023,해적선장 모자,2_hair,Mesh_PIRATE_HAT,Mat_PIRATE_HAT
+024,해적선원 두건,2_hair,Mesh_PIRATE_BANDANA,Mat_PIRATE_HAT
+025,이파리 왕관,4_eye,Mesh_FLOWER_CROWN_2,Mat_FLOWER_CROWN
+026,꽃 왕관,4_eye,Mesh_FLOWER_CROWN_1,Mat_FLOWER_CROWN
+027,수박 모자,2_hair,Mesh_WM_HELMET,Mat_WM_HELMET
+028,스노클링 세트,3_face,Mesh_SW_GOGGLE_02_2,Mat_GOGGLE_02
+029,대형 물안경,4_eye,Mesh_SW_GOGGLE_02_1,Mat_GOGGLE_02
+030,소형 물안경,4_eye,Mesh_SW_GOGGLE_01,Mat_GOGGLE_01
+031,강시 모자1,2_hair,Mesh_GANGSI_HAT_1,Mat_GANGSI_HAT
+032,강시 모자2,2_hair,Mesh_GANGSI_HAT_2,Mat_GANGSI_HAT
+033,루돌프머리,0_all,Mesh_RUDOLPH,Mat_RUDOLPH
+034,산타수염모자,2_hair,Mesh_SANTA_HAT_1,Mat_SANTA_HAT
+035,산타모자,2_hair,Mesh_SANTA_HAT_2,Mat_SANTA_HAT

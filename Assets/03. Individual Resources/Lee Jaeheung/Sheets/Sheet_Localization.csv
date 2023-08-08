@@ -1,0 +1,73 @@
+,0.영어(English),1.한국어,2.중국어(간체)(简体中文),3.중국어(번체)(繁體中文),4.일본어(日本語),5.스페인어(Español),6.독일어(Deutsch),7.포루투칼어(Português),8.러시아어(русский язык),9.이탈리아어(Italiano),10.폴란드어(język polski),11.터키어(Türkçe),12.프랑스어(Français)
+0001,MENU,메뉴,菜单,菜單,メニュー,MENÚ,MENÜ,MENU,МЕНЮ,MENU,MENU,MENÜ,MENU
+0002,SINGLE,혼자하기,单人游戏,單獨,ひとりで,SOLO,EINZELN,ÚNICO,ОДИН,SINGOLA,JEDEN,TEKLI,UN
+0003,MULTI,랜덤대전,随机匹配,隨機匹配,オンライン,MULTI,MULTI,VÁRIOS,МУЛЬТИ,MULTI,WIELU,ÇOKLU,MULTI
+0004,FRIEND,친구대전,好友对决,好友對決,フレンド,AMIGO,FREUND,AMIGO,ДРУГ,AMICO,ZNAJOMY,ARKADAŞLA,AMI
+0005,SELECT LEVEL,난이도 선택,选择难度,選擇難度,つよさ選択,SELECCIONAR NIVEL,LEVEL AUSWÄHLEN,SELECIONAR NÍVEL,ВЫБЕРИТЕ УРОВЕНЬ,SELEZIONA LIVELLO,WYBIERZ POZIOM,DÜZEYLERI SEÇ,SÉLECTIONNER NIVEAU
+0006,PASSWORD,비밀방 생성,创建密码房中,創建密碼房中,パスワード,CONTRASEÑA,PASSWORT,PALAVRA-PASSE,ПАРОЛЬ,PASSWORD,HASŁO,PAROLA,MOT DE PASSE
+0007,Enter the Password,방 비밀번호를 입력하세요.,请输入密码,請輸入密碼,パスワード入力,Ingrese su contraseña,Passwort eingeben,Introduzir a palavra-passe,Введите Пароль,Inserire Password,Wprowadź Hasło,parolayı gir,Entrer le mot de passe
+0008,MATCHING...,매칭 대기 중...,匹配中…,匹配中…,マッチング...,EMPAREJANDO,MATCHING...,A CORRESPONDER…,СОВПАДЕНИЕ ...,ACCOPPIAMENTO…,DOPASOWYWANIE…,EŞLEŞME BEKLENIYOR,MISE EN RELATION…
+0009,CONNECTING...,연결중입니다...,连接中…,連接中…,接続中...,CONECTANDO,VERBINDEN...,A LIGAR…,ПОДКЛЮЧЕНИЕ …,CONNESSIONE…,ŁĄCZENIE…,BAĞLANIYOR…,CONNECTION…
+0010,QUICK START,빠른 게임 매칭,快速游戏,快速遊戲,クイックスタート,PARTIDA RÁPIDA,SCHNELLSTART,INÍCIO RÁPIDO,БЫСТРЫЙ СТАРТ,PARTITA VELOCE,SZYBKI START,HIZLI BAŞLANGIÇ,DÉMARRAGE RAPIDE
+0011,LEADER BOARD,순위표,名次表,名次表,ランキング,Tabla de posiciones,LEADER BOARD,TABELA CLASSIFICATIVA,ДОСКА ЛИДЕРОВ,CLASSIFICA,TABLICA WYNIKÓW,sıralama,Classement
+0012,Top Best Score,상위 베스트 스코어,最高分,最高分,ベストスコア,Mejores puntajes,Top Beste Punktzahl,Melhor pontuação,Лучший результат,Miglior Punteggio,Topowy Rekord,en yüksek skor,Top meilleurs scores
+0013,My Best Score,나의 베스트 스코어,我的最高分,我的最高分,自分のスコア,Mi mejor puntuación,Meine Beste Punktzahl,A minha melhor pontuação,Мой Лучший Результат,Il mio Miglior Punteggio,Mój Rekord,benim skorum,Mes meilleurs scores
+0014,ACHIEVEMENT,도전과제,挑战任务,挑戰任務,実績,Logros,ERFOLG,CONQUISTA,ДОСТИЖЕНИЕ,RAGGIUNGIMENTI,OSIĄGNIĘCIE,başarı,Accomplissement
+0015,SETTING,제어판,设定,設定,設定,Configuraciones,EINSTELLUNG,DEFINIÇÃO,НАСТРОЙКИ,IMPOSTAZIONI,USTAWIENIA,ayarlar,Paramètre
+0016,[ SOUND ],[ 소리 ],[ 声音 ],[ 聲音 ],[ サウンド ],[ SONIDO ],[ TON ],[ SOM ],[ ЗВУК ],[ SUONO ],[ DŹWIĘK ],[ SES ],[ SON ]
+0017,[ HAPTIC ],[ 진동 ],[ 震动 ],[ 震動 ],[ 振動 ],[ TÁCTIL ],[ HAPTISCH ],[ TÁTIL ],[ ТАКТИЛЬНЫЕ ],[ TATTILE ],[ DOTYKOWE ],[ TITREŞIM ],[ HAPTIQUE ]
+0018,[ HAND ],[ 주로 쓰는 손 ],[ 主使用手 ],[ 主使用手 ],[ 使用する手 ],[ MANO A USAR ],[ HAND ],[ MÃO ],[ РУКА ],[ MANO ],[ RĘKA ],[ GENELDE KULLANILAN EL ],[ MAIN ]
+0019,LEFTY,왼손잡이,左撇子,左撇子,左利き,Mano izq,LINKS,ESQUERDINO,ЛЕВША,SINISTRA,LEWA,solak,Gauche
+0020,RIGHTY,오른손잡이,右撇子,右撇子,右利き,Mano der,RECHTS,DESTRO,ПРАВША,DESTRA,PRAWA,sağlak,Droite
+0021,[ VOICE CHAT ],[ 보이스 챗 ],[ 语音聊天 ],[ 語音聊天 ],[ ボイスチャット ],[ CHAT POR VOZ ],[ VOICE CHAT ],[ CHAT POR VOZ ],[ ГОЛОСОВОЙ ЧАТ ],[ CHAT VOCALE ],[ CZAT GŁOSOWY ],[ SESLI MESAJ ],[ CHAT VOCAL ]
+0022,[ LANGUAGE ],[ 언어 ],[ 语言 ],[ 語言 ],[ 言語 ],[ IDIOMA ],[ SPRACHE ],[ IDIOMA ],[ ЯЗЫК ],[ LINGUA ],[ JĘZYK ],[ DIL ],[ LANGUE ]
+0023,COSTUME,의상,服装,服裝,コスチューム,Atuendos,KOSTÜM,ROUPA,КОСТЮМ,VESTITO,KOSTIUM,kostüm,Costume
+0024,ACCESSORY,악세서리,配饰,飾品,アクセサリー,Accesorios,ZUBEHÖR,ACESSÓRIO,АКСЕССУАР,ACCESSORI,AKCESORIUM,aksesuar,Accesoire
+0025,FACE,얼굴,面部,臉部,フェース,Rostro,GESICHT,ROSTO,ЛИЦО,FACCIA,TWARZ,yüz,Visage
+0026,HAIR,머리,发型,頭髮,ヘア,Cabello,HAAR,CABELO,ВОЛОСЫ,CAPELLI,WŁOSY,saç,Cheveux
+0027,RESULT,결과,结果,結果,結果,Resultados,ERGEBNIS,RESULTADO,РЕЗУЛЬТАТ,RISULTATO,WYNIK,sonuç,Résultat
+0028,WIN,승리,胜利,勝利,勝利,Victoria,GEWINN,VITÓRIA,ПОБЕДИЛ,VITTORIA,WYGRANA,kazanan,Victoire
+0029,LOSE,패배,败北,敗北,敗北,Derrota,VERLIEREN,DERROTA,ПРОИГРАЛ,PERDITA,PRZEGRANA,kaybeden,Défaite
+0030,DRAW,무승부,平手,平手,無勝負,Empate,UNENTSCHIEDEN,EMPATE,НИЧЬЯ,DISEGNO,REMIS,berabere,Dessiner
+0031,Other player has left.,상대방이 방에서 나갔습니다.,对手已离开,對手已離開,相手が退場しました。,El otro jugador ha abandonado la partida,Der andere Spieler ist gegangen.,Outro jogador saiu.,Игрок ушел.,L'altro giocatore ha abbandonato.,Drugi gracz wyszedł.,karşı oyuncu oyundan ayrıldı.,L'autre joueur est parti.
+0032,SUCCESS,성공,成功,成功,成功,Éxito,ERFOLG,ÊXITO,УСПЕХ,SUCCESSO,SUKCES,başarmak,Succès
+0033,FAIL,실패,失败,失敗,失敗,Fracaso,VERLOREN,FRACASSO,НЕУДАЧА,FALLIMENTO,PORAŻKA,kaybetmek,Echec
+0034,SCORE,스코어,成绩,成績,スコア,Puntaje,PUNKTZAHL,PONTUAÇÃO,СЧЕТ,PUNTEGGIO,WYNIK,skor,Score
+0035,Waiting...,대기중...,等待中…,等待中…,待機中...,Esperando,Warten...,A aguardar…,Ожидание...,Attendi…,Oczekiwanie…,bekleniyor…,En attente…
+0036,Level,난이도,难度,難度,つよさ,Nível,Level,Nível,Уровень,Livello,Poziom,seviye,Niveau
+0037,How To Play,게임 설명,如何操作,遊戲方法,やり方,Cómo jugar,Spielanleitung,Como jogar,Как Играть,Come si gioca,Jak Grać,nasıl oynanır,Comment jouer
+0038,Time,시간,时间,時間,時間,Tiempo,Zeit,Tempo,Время,Tempo,Czas,zaman,Temps
+0039,Info,정보,资料,資料,情報,Info,Info,Info,да́нные,Info,Info,bilgi,Info
+0040,ME,자신,自己,自己,自分,Yo,ICH,EU,МНЕ,IO,JA,ben,Moi
+0041,OPPONENT,상대,对手,對手,相手,Oponente,GEGNER,ADVERSÁRIO,ПРОТИВНИК,AVVERSARIO,PRZECIWNIK,rakip,Adversaire
+0042,Name,이름,名字,名字,名前,Nombre,Name,Nome,Имя,Nome,Nazwa,isim,Nom
+0043,Set,세트,局,局,セット,Juego,Satz,Partida,Набор,Set,Zbiór,set,Set
+0044,CURRENT SERVER,현재 서버,当前服务器,當前服務器,現在サーバ,SERVIDOR ACTUAL,AKTUELLER SERVER,SERVIDOR ATUAL,ТЕКУЩИЙ СЕРВЕР,SERVER CORRENTE,BIEŻĄCY SERWER,MEVCUT SUNUCU,SERVEUR ACTUEL
+0045,Set,놓기,放,放,置く,Colocar,Setzen,Colocar,класть,Mettere,Kłaść,Koymak,Mettre
+0046,BGM,배경음,背景音乐,背景音樂,BGM,BGM,BGM,BGM,Фоновая музыка,BGM,BGM,BGM,BGM
+0047,Effect,효과음,效果音,効果音,効果音,Efecto,Bewirken,Efeito,Эффект,Effetto,Efekt,Etki,Effet
+0048,Please connect to the Internet.,인터넷 연결이 필요합니다.,请连接到互联网,請連接到互聯網,インターネット接続が必要です。,Por favor conectarse a Internet,Bitte stellen Sie eine Internetverbindung her,Por favor conecte-se à Internet,Пожалуйста подключитесь к Интернету,Si prega di connettersi a Internet,Połącz się z Internetem,Lütfen İnternete Bağlanın,Veuillez vous connecter à Internet
+0049,Please update to the latest version.,최신 버전 업데이트가 필요합니다.,请更新到最新版本。,請更新到最新版本。,最新バージョンの更新が必要です。,Actualice a la última versión.,Bitte aktualisieren Sie auf die neueste Version.,Atualize para a versão mais recente.,Пожалуйста обновите до последней версии.,Si prega di aggiornare all'ultima versione.,Zaktualizuj do najnowszej wersji.,Lütfen en son sürüme güncelleyin.,Veuillez mettre à jour vers la dernière version.
+0050,Beat Boxing,비트 복싱,节奏拳击,節奏拳击,ビートボクシング,Beat Boxing,Beatboxen,Beat Boxing,битбокс,Beat boxe,Pokonaj boks,Beat boks,Beat boxe
+0051,Heavy Bag,헤비 백,沉重的包,沉重的包,ヘビーバッグ,Bolsa pesada,Schwere Tasche,Saco pesado,Тяжелая сумка,Borsa pesante,Ciężka torba,Ağır çanta,Sac lourd
+0052,Speed Bag,스피드 백,速度包,速度包,スピードバッグ,Pera boxeo,Boxbirne,Saco de velocidade,Боксерская груша,pera boxe,worek prędkość,Hız Çantası,Sac de vitesse
+0053,Dummy Bag,더미 백,拳击假人,拳擊假人,ダミーバッグ,Dummy,Dummy,Dummy,Dummy,Dummy,Dummy,Dummy,Dummy
+0054,Round,라운드,回合,回合,ラウンド,Round,Round,Round,Round,Round,Round,Round,Round
+0055,Select one or more,종목선택(하나 이상),选择一个或多个,選擇一個或多個,1つ以上を選択します,Seleccione uno o más,Wählen Sie eine oder mehrere aus,Selecione um ou mais,выберите один или несколько,selezionane uno o più,wybierz jeden lub więcej,bir veya daha fazlasını seçin,sélectionnez un ou plusieurs
+0056,On-line ,온라인 ,网上,網上,オンライン,Online,Online,On-line,онлайн,Online,Online,Online,En ligne
+0057,A connection has been lost with the opponent.,상대방과의 연결이 끊겼습니다.,与对手失去了联系,與對手失去了聯繫,相手との接続が切れました,Se ha perdido la conexión con el oponente.,Die Verbindung zum Gegner ist verloren gegangen.,A conexão foi perdida com o oponente.,Связь с противником потеряна.,La connessione è stata persa con l'avversario.,Utracono połączenie z przeciwnikiem.,Rakip ile bağlantı kesildi.,La connexion a été perdue avec l'adversaire.
+0058,Next,Next,下一个,Next,Next,Next,Next,Next,Next,Next,Next,Next,Next
+0059,Player,플레이어,运动员,Player,Player,Player,Player,Player,Player,Player,Player,Player,Player
+0060,Jet Ski,제트스키,摩托艇,摩托艇,ジェット・スキー,Moto acuática,Jet Ski,Jet Ski,Гидроцикл,Moto d'acqua,Skuter wodny,jet ski,Jet ski
+0061,BeachVolleyball,비치발리볼,沙滩排球,沙灘排球,ビーチバレー,Voleibol de playa,Beach-Volleyball,Vôlei de praia,Пляжный воллейбол,Beach volley,Siatkówka plażowa,Plaj Voleybolu,Beach-volley
+0062,Fishing,낚시,钓鱼,釣魚,釣り,Pescar,Angeln,pescaria,Ловит рыбу,Pesca,Wędkarstwo,Balık tutma,Faire de la pêche
+0063,Flying Disc,플라잉디스크,飞盘,飛盤,フリスビー,disco volador,Frisbeescheibe,frisbee,фрисби,frisbee,frisbee,frizbi,frisbee
+0064,Cycling,사이클,自行车,自行車,サイクリング,Ciclismo,Radfahren,Ciclismo,Кататься на велосипеде,Ciclismo,Jazda rowerem,Bisiklet sürmek,Vélo
+0065,Swimming,수영,游泳,游泳,水泳,Natación,Schwimmen,Natação,Плавание,Nuoto,Pływanie,Yüzme,Natation
+0066,Rank,등급,名次,名次,ランク,Rank,Rang,nível,Рейтинг,Classifica,Ranga,derece,Rang
+0067,Name,이름,名字,名字,名前,Nombre,Name,Nome,Имя,Nome,Nazwa,isim,Nom
+0068,Version,Version,版本,Version,Version,Version,Version,Version,Version,Version,Version,Version,Version
+0069,FISH,물고기,鱼,魚,魚,Pez,Fisch,Peixe,рыба,Pesce,Ryba,Balık,Poisson
+0070,Shooting,사격,射击,射擊,射撃,tiroteo,Schießen,filmagem,стрельба,tiro,strzelanie,çekim,tournage
+0071,Squash,스쿼시,壁球,壁球,スカッシュ,calabaza,quetschen,abóbora,давить,schiacciare,zdusić,squash,écraser
+0072,NOTICE,공지사항,通告,公告事項,お知らせ,AVISO,NOTIZ,AVISO,Уведомление,AVVISO,Zauważyć,Fark etme,AVIS

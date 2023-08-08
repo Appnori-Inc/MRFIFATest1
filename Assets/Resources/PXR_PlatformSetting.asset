@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 508edb944d24e574595a91425051a8e4, type: 3}
+  m_Name: PXR_PlatformSetting
+  m_EditorClassIdentifier: 
+  entitlementCheckSimulation: 1
+  startTimeEntitlementCheck: 1
+  appID: 524859d65c04dcf84e3d72b8e2839e47
+  deviceSN:
+  - PA8110DGG5244285K
+  - PA7P70MGG4280459W
+  - PA7H10MGF5090377W
+  - PA8110DGG5244235K
+  - PA7P70MGG5070357W
+  - PA8170MGG9041631G
+  - PA7H10MGF6040891W
+  - PA8170MGG9050657G
+  - PA8170MGG9041817G
+  - PA8170MGG9050359G
+  - PA8170MGG9030712G
+  - PA8110MGH1150892G

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/03. Individual Resources/Jeong Jisang/_Billiards/BallPoolGame/MultiplayerSystem/Scenes/Lobby.unity
+    guid: 2898f7a52b98e664aac31f936ddbe0df
+  - enabled: 1
+    path: Assets/03. Individual Resources/Jeong Jisang/_Billiards/BallPoolGame/MultiplayerSystem/Scenes/Scene_Game_Billiards.unity
+    guid: badd213e1699f0148a1aa58c1e6b4cc5
+  - enabled: 1
+    path: Assets/03. Individual Resources/Jeong Jisang/_Billiards/BallPoolGame/Game/Scenes/AightBallPool.unity
+    guid: 77e51571c065b49b6887419466bda987
+  - enabled: 1
+    path: Assets/03. Individual Resources/Jeong Jisang/_Billiards/BallPoolGame/MultiplayerSystem/Scenes/Home_map.unity
+    guid: 3ccf857b251f1df4d91d9b4c3363da47
+  - enabled: 1
+    path: Assets/03. Individual Resources/Jeong Jisang/_Billiards/BallPoolGame/Game/Scenes/CaromBilliards.unity
+    guid: c1ab4a178a8a49b4d86f057097409b62
+  - enabled: 1
+    path: Assets/03. Individual Resources/Jeong Jisang/_Billiards/BallPoolGame/Game/Scenes/CaromBilliardsFour.unity
+    guid: 92eef2bd97c789c459619c41c869a359
+  - enabled: 1
+    path: Assets/03. Individual Resources/Lee Jaeheung/Lobby/Scenes/Scene_Custom_Q.unity
+    guid: 4a9faa75ef9cb71428368df875e73253
+  - enabled: 1
+    path: Assets/03. Individual Resources/Kwon Minjae/LobbyAssets/11_Graphic resources/GraphicMap_Factory.unity
+    guid: 19fe09ac4fa37c948bb4bdf745e5c9e7
+  - enabled: 1
+    path: Assets/03. Individual Resources/Kwon Minjae/LobbyAssets/11_Graphic resources/GraphicMap_Hanok.unity
+    guid: 7fae744f7aca4644290f227632d4ec2b
+  - enabled: 1
+    path: Assets/03. Individual Resources/Kwon Minjae/LobbyAssets/1_Scenes/Customize.unity
+    guid: b9a61368c48bfbd44923f5ed2a712d76
+  - enabled: 1
+    path: Assets/03. Individual Resources/Kwon Minjae/LobbyAssets/11_Graphic resources/GraphicMap_WaterFall.unity
+    guid: ce5970d82683aa54d881fa0cfbadbc48
+  - enabled: 0
+    path: Assets/03. Individual Resources/Kwon Minjae/LobbyAssets/Pico_IAP/IAP/IAP.unity
+    guid: 0439f54a1ab5349539a17810e286df27
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f245da8ddb9061340b140e10ed25396a,
+      type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 41d9516499416944aae5fc794b74d74d,
+      type: 2}
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: 4e08235b96d668344ae356228c735bb4,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 16d824e04c69adc4885de96ac7c311e0,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 641efff9c098fb04495373dde2ec6414,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 918494dfb76264e4ebaa406a98d5bc5d,
+      type: 2}

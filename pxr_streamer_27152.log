@@ -1,0 +1,43 @@
+[2023-05-11 16:57:52.926] [pxr_streamer] [info] ***********  Log Begin **********
+[2023-05-11 16:57:52.926] [pxr_streamer] [info] process id= 27152
+[2023-05-11 16:57:52.926] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:57:52.926] [pxr_streamer] [error] rpc_terminal.h:50 Call: invalid rpc_client_, msg = Hello, this = 0x15421940
+[2023-05-11 16:57:52.926] [pxr_streamer] [error] rpc_terminal.h:50 Call: invalid rpc_client_, msg = QueryRemoteTerminals, this = 0x15421940
+[2023-05-11 16:57:55.969] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:57:58.991] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:02.013] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:05.046] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:08.070] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:11.078] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:14.119] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:17.165] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:20.202] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:23.246] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:26.268] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:29.320] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:32.374] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:35.428] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:38.190] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x479d5730
+[2023-05-11 16:58:38.190] [pxr_streamer] [error] rpc_terminal.h:50 Call: invalid rpc_client_, msg = Hello, this = 0x479d5730
+[2023-05-11 16:58:38.190] [pxr_streamer] [error] rpc_terminal.h:50 Call: invalid rpc_client_, msg = QueryRemoteTerminals, this = 0x479d5730
+[2023-05-11 16:58:38.475] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:41.232] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x479d5730
+[2023-05-11 16:58:41.518] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:44.253] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x479d5730
+[2023-05-11 16:58:44.540] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:47.281] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x479d5730
+[2023-05-11 16:58:47.554] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:50.286] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x479d5730
+[2023-05-11 16:58:50.575] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:53.314] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x479d5730
+[2023-05-11 16:58:53.586] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:56.356] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x479d5730
+[2023-05-11 16:58:56.614] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:58:59.368] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x479d5730
+[2023-05-11 16:58:59.625] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:59:02.389] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x479d5730
+[2023-05-11 16:59:02.647] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:59:05.397] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x479d5730
+[2023-05-11 16:59:05.671] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
+[2023-05-11 16:59:08.428] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x479d5730
+[2023-05-11 16:59:08.694] [pxr_streamer] [error] rpc_terminal.cpp:37 operator (): connect failed, error= 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다., this = 0x15421940
